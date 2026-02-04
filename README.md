@@ -1,53 +1,74 @@
-<div align="center">
+# <p align="left">📟 HAIDAR_ALESSA_SYSTEM_INIT...</p>
 
-# 🌌 Haidar H. Alessa
-**Versatile Software Engineer | Laravel Expert | Swift Backend Pioneer**
-
-[![Orbit Framework](https://img.shields.io/badge/Project-Orbit-blueviolet?style=for-the-badge&logo=swift)](https://github.com/orbit-framework/orbit)
-[![VaporGen](https://img.shields.io/badge/Tool-VaporGen-orange?style=for-the-badge&logo=homebrew)](#)
-
----
-
-### 🚀 About Me
-I am a software engineer with a proven track record in **Laravel** and a deep specialization in **Swift backend technologies**. I focus on delivering efficient, maintainable code for complex platforms, bridging the gap between elegant developer experiences and high-performance environments.
-
-[CV Highlights]
-6+ Years at Ali Alessa Architectural Engineering Office | Tuwaiq Holberton Alumnus
-
----
-
-### 🛠 Technical Toolkit
-| Category | Stack |
-| :--- | :--- |
-| **Languages** | Swift, PHP (Laravel), JavaScript (Next.js), Bash Shell, Python |
-| **Databases** | PostgreSQL, MySQL |
-| **DevOps** | Docker, DigitalOcean, Git |
-| **Design** | Figma, Photoshop |
-
----
-
-### 🏗 Featured Projects
-
-#### 🌌 [Orbit Framework](https://github.com/orbit-framework/orbit)
-A comprehensive, open-source backend ecosystem for Swift. I am bringing the **Laravel-style Developer Experience (DX)** to the high-performance Swift environment, including a native PostgreSQL driver.
-
-#### 🏛 [Architectural Business Systems](https://alessabro.com)
-Designed a streamlined technical service platform that resulted in a **90% increase in customer satisfaction** via instant quotations and a **50% improvement** in on-time payment collection.
-
-#### 📊 [Structure Platform]
-A specialized cost-tracking system for construction expenses, providing instant quotations for foundation and finishing services.
-
----
-
-### 📫 Get in Touch
-<p align="center">
-  <a href="mailto:haidarhalessa@gmail.com">
-    <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/mail.svg" width="20" height="20" /> <b>haidarhalessa@gmail.com</b>
-  </a>
-  &nbsp;&nbsp; • &nbsp;&nbsp;
-  <a href="https://wa.me/966539593592">
-    <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/phone.svg" width="20" height="20" /> <b>WhatsApp Me</b>
-  </a>
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=4ADE80&width=600&lines=INITIALIZING_PROFILE...;LOADING_CORE_MODULES...;PHP_LARAVEL_ACTIVE;SWIFT_BACKEND_ACTIVE;ORBIT_FRAMEWORK_ONLINE" alt="Typing SVG" />
 </p>
 
-</div>
+## 🌌 SYSTEM_SPECS
+**Software Engineer** | **Framework Architect** | [cite_start]**Laravel Expert** [cite: 1, 2]
+
+[cite_start]Highly versatile engineer with a 6-year track record at **Ali Alessa Architectural Engineering Office**[cite: 5]. [cite_start]I bridge the gap between the elegance of **Laravel** and the raw performance of **Swift backend technologies**[cite: 2, 9]. 
+
+---
+
+### 🛠️ TECH_STACK_RESOURCES
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="45" title="Swift"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="45" title="Laravel"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" title="TypeScript"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="45" title="NestJS"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" title="Docker"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-static.svg" width="45" title="Next.js"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" title="Figma"/>
+</p>
+
+* [cite_start]**Core Languages:** Swift, PHP, TypeScript, Python, Bash Shell[cite: 20].
+* [cite_start]**Frameworks:** Orbit (Creator), Laravel, NestJS, Next.js, Vapor[cite: 9, 20].
+* [cite_start]**Infrastructure:** PostgreSQL, MySQL, Docker, DigitalOcean[cite: 19, 21, 27].
+
+---
+
+### 📂 LOGGED_PROJECTS
+
+#### 🟢 [ORBIT_FRAMEWORK](https://github.com/orbit-framework/orbit)
+> **Status:** `PRODUCTION_READY`
+* [cite_start]**Mission:** Bringing Laravel-style Developer Experience (DX) to high-performance Swift[cite: 9].
+* **Core:** Architected a native PostgreSQL driver to remove standard dependencies.
+
+#### 🟢 [ARCHITECTURAL_BUSINESS_SYSTEMS](https://alessabro.com)
+> **Status:** `DEPLOYED`
+* [cite_start]**Performance:** **90% increase** in customer satisfaction via instant engineering quotations[cite: 14].
+* [cite_start]**Finance:** **50% increase** in on-time payment collection through custom tracking systems[cite: 15].
+
+#### 🟢 [STRUCTURE_PLATFORM]
+> **Status:** `ARCHIVED`
+* [cite_start]**Feature:** Implemented a cost-tracking system for construction expenses and foundation services[cite: 17].
+
+---
+
+### 📜 CERTIFIED_MODULES
+* 🎓 **Tuwaiq Holberton Bootcamp** | [cite_start]406 Hours of Intensive Engineering[cite: 32].
+* ☁️ **AWS Cloud Practitioner** | [cite_start]Saudi Digital Academy[cite: 32].
+* 🏛️ **Bachelor in Information Technology** | [cite_start]Saudi Electronic University[cite: 34, 36].
+
+---
+
+### 📞 ESTABLISH_CONNECTION
+
+```bash
+# Execute these commands to reach me
+> contact --email "haidarhalessa@gmail.com" [cite: 37]
+> contact --whatsapp "+966539593592" [cite: 37]
+> locate --github "haidarhalessa" [cite: 38]
+
+
+<p align="left">
+<a href="mailto:haidarhalessa@gmail.com">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Gmail-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" />
+</a>
+<a href="https://www.google.com/search?q=https://wa.me/966539593592">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/WhatsApp-25D366%3Fstyle%3Dfor-the-badge%26logo%3Dwhatsapp%26logoColor%3Dwhite" />
+</a>
+</p>
