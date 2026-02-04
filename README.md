@@ -5,9 +5,9 @@
 </p>
 
 ## 🌌 SYSTEM_SPECS
-**Software Engineer** | **Framework Architect** | [cite_start]**Laravel Expert** [cite: 1, 2]
+**Software Engineer** | **Framework Architect** | **Laravel Expert**
 
-[cite_start]Highly versatile engineer with a 6-year track record at **Ali Alessa Architectural Engineering Office**[cite: 5]. [cite_start]I bridge the gap between the elegance of **Laravel** and the raw performance of **Swift backend technologies**[cite: 2, 9]. 
+Highly versatile engineer with a 6-year track record at **Ali Alessa Architectural Engineering Office**. [cite_start]I bridge the gap between the elegance of **Laravel** and the raw performance of **Swift backend technologies**. [cite: 1, 2, 5]
 
 ---
 
@@ -19,39 +19,39 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="45" title="NestJS"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" title="Docker"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-static.svg" width="45" title="Next.js"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45" title="Next.js"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" title="Figma"/>
 </p>
 
-* [cite_start]**Core Languages:** Swift, PHP, TypeScript, Python, Bash Shell[cite: 20].
-* [cite_start]**Frameworks:** Orbit (Creator), Laravel, NestJS, Next.js, Vapor[cite: 9, 20].
-* [cite_start]**Infrastructure:** PostgreSQL, MySQL, Docker, DigitalOcean[cite: 19, 21, 27].
+* [cite_start]**Core Languages:** Swift, PHP, TypeScript, Python, Bash Shell. [cite: 20]
+* [cite_start]**Frameworks:** Orbit (Creator), Laravel, NestJS, Next.js, Vapor. [cite: 7, 20]
+* [cite_start]**Infrastructure:** PostgreSQL, MySQL, Docker, DigitalOcean. [cite: 19, 21, 27, 28]
 
 ---
 
 ### 📂 LOGGED_PROJECTS
 
 #### 🟢 [ORBIT_FRAMEWORK](https://github.com/orbit-framework/orbit)
-> **Status:** `PRODUCTION_READY`
-* [cite_start]**Mission:** Bringing Laravel-style Developer Experience (DX) to high-performance Swift[cite: 9].
-* **Core:** Architected a native PostgreSQL driver to remove standard dependencies.
+> **Status:** `ACTIVE_DEVELOPMENT`
+* [cite_start]**Mission:** Bringing Laravel-style Developer Experience (DX) to high-performance Swift. [cite: 9]
+* [cite_start]**Core:** Architected a native PostgreSQL driver to remove standard dependencies. [cite: 9]
 
 #### 🟢 [ARCHITECTURAL_BUSINESS_SYSTEMS](https://alessabro.com)
 > **Status:** `DEPLOYED`
-* [cite_start]**Performance:** **90% increase** in customer satisfaction via instant engineering quotations[cite: 14].
-* [cite_start]**Finance:** **50% increase** in on-time payment collection through custom tracking systems[cite: 15].
+* [cite_start]**Performance:** **90% increase** in customer satisfaction via instant engineering quotations. [cite: 14]
+* [cite_start]**Finance:** **50% increase** in on-time payment collection through custom tracking systems. [cite: 15]
 
 #### 🟢 [STRUCTURE_PLATFORM]
 > **Status:** `ARCHIVED`
-* [cite_start]**Feature:** Implemented a cost-tracking system for construction expenses and foundation services[cite: 17].
+* [cite_start]**Feature:** Implemented a cost-tracking system for construction expenses and foundation services. [cite: 17]
 
 ---
 
 ### 📜 CERTIFIED_MODULES
-* 🎓 **Tuwaiq Holberton Bootcamp** | [cite_start]406 Hours of Intensive Engineering[cite: 32].
-* ☁️ **AWS Cloud Practitioner** | [cite_start]Saudi Digital Academy[cite: 32].
-* 🏛️ **Bachelor in Information Technology** | [cite_start]Saudi Electronic University[cite: 34, 36].
+* 🎓 **Tuwaiq Holberton Bootcamp** | [cite_start]406 Hours of Intensive Engineering. [cite: 32]
+* ☁️ **AWS Cloud Practitioner** | [cite_start]Saudi Digital Academy. [cite: 32]
+* 🏛️ **Bachelor in Information Technology** | [cite_start]Saudi Electronic University. [cite: 34, 36]
 
 ---
 
@@ -59,10 +59,10 @@
 
 ```bash
 # Execute these commands to reach me
-> contact --email "haidarhalessa@gmail.com" [cite: 37]
-> contact --whatsapp "+966539593592" [cite: 37]
-> locate --github "haidarhalessa" [cite: 38]
-
+> contact --email "haidarhalessa@gmail.com"
+> contact --whatsapp "+966539593592"
+> locate --github "haidarhalessa"
+```
 
 <p align="left">
 <a href="mailto:haidarhalessa@gmail.com">
