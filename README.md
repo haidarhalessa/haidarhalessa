@@ -1,47 +1,53 @@
 <div align="center">
 
-# 🌌 Hello, I'm Haidar Alessa
-**Architecting the Swift Ecosystem | Framework Creator | Laravel Expert**
+# 🌌 Haidar H. Alessa
+**Versatile Software Engineer | Laravel Expert | Swift Backend Pioneer**
 
-[![Orbit Framework](https://img.shields.io/badge/Project-Orbit-blueviolet?style=for-the-badge&logo=swift)](#)
+[![Orbit Framework](https://img.shields.io/badge/Project-Orbit-blueviolet?style=for-the-badge&logo=swift)](https://github.com/orbit-framework/orbit)
 [![VaporGen](https://img.shields.io/badge/Tool-VaporGen-orange?style=for-the-badge&logo=homebrew)](#)
 
 ---
 
-### 🚀 The Mission: "Orbit"
-*Building a high-performance Swift web framework from the ground up.*
-I'm currently developing **Orbit**, moving away from standard dependencies to build native solutions like our own **PostgreSQL Driver**. My goal is to bring the developer experience of Laravel to the type-safe world of Swift.
+### 🚀 About Me
+I am a software engineer with a proven track record in **Laravel** and a deep specialization in **Swift backend technologies**. I focus on delivering efficient, maintainable code for complex platforms, bridging the gap between elegant developer experiences and high-performance environments.
 
-</div>
-
----
-
-### 🛠 Tools of the Trade
-- **Languages:** Swift (Current Focus), PHP (Laravel), SQL.
-- **Database:** PostgreSQL (Native Driver Development).
-- **Environment:** Docker-first workflows.
-- **Platforms:** macOS, iOS, and Server-side Swift.
-
-### 🏗 Current Build Logs
-* **[Orbit]**: Writing the core engine and native DB drivers.
-* **[Draft]**: Designing a text-based task tracker for the Apple ecosystem.
-* **[VaporGen]**: Automating boilerplate for the Vapor community.
+[CV Highlights]
+6+ Years at Ali Alessa Architectural Engineering Office | Tuwaiq Holberton Alumnus
 
 ---
 
-### 📊 My GitHub Journey
+### 🛠 Technical Toolkit
+| Category | Stack |
+| :--- | :--- |
+| **Languages** | Swift, PHP (Laravel), JavaScript (Next.js), Bash Shell, Python |
+| **Databases** | PostgreSQL, MySQL |
+| **DevOps** | Docker, DigitalOcean, Git |
+| **Design** | Figma, Photoshop |
+
+---
+
+### 🏗 Featured Projects
+
+#### 🌌 [Orbit Framework](https://github.com/orbit-framework/orbit)
+A comprehensive, open-source backend ecosystem for Swift. I am bringing the **Laravel-style Developer Experience (DX)** to the high-performance Swift environment, including a native PostgreSQL driver.
+
+#### 🏛 [Architectural Business Systems](https://alessabro.com)
+Designed a streamlined technical service platform that resulted in a **90% increase in customer satisfaction** via instant quotations and a **50% improvement** in on-time payment collection.
+
+#### 📊 [Structure Platform]
+A specialized cost-tracking system for construction expenses, providing instant quotations for foundation and finishing services.
+
+---
+
+### 📫 Get in Touch
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical&hide_border=true" alt="Stats" />
+  <a href="mailto:haidarhalessa@gmail.com">
+    <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/mail.svg" width="20" height="20" /> <b>haidarhalessa@gmail.com</b>
+  </a>
+  &nbsp;&nbsp; • &nbsp;&nbsp;
+  <a href="https://wa.me/966539593592">
+    <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/phone.svg" width="20" height="20" /> <b>WhatsApp Me</b>
+  </a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-<div align="center">
-  
-**Let's build something scalable.** [LinkedIn](#) • [Twitter/X](#) • [Portfolio](#)
 
 </div>
