@@ -7,7 +7,7 @@
 ## 🌌 SYSTEM_SPECS
 **Software Engineer** | **Framework Architect** | **Laravel Expert**
 
-Highly versatile engineer with a 6-year track record at **Ali Alessa Architectural Engineering Office**. [cite_start]I bridge the gap between the elegance of **Laravel** and the raw performance of **Swift backend technologies**. [cite: 1, 2, 5]
+Highly versatile engineer with a 6-year track record at **Ali Alessa Architectural Engineering Office**. I bridge the gap between the elegance of **Laravel** and the raw performance of **Swift backend technologies**.
 
 ---
 
@@ -24,9 +24,9 @@ Highly versatile engineer with a 6-year track record at **Ali Alessa Architectur
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" title="Figma"/>
 </p>
 
-* [cite_start]**Core Languages:** Swift, PHP, TypeScript, Python, Bash Shell. [cite: 20]
-* [cite_start]**Frameworks:** Orbit (Creator), Laravel, NestJS, Next.js, Vapor. [cite: 7, 20]
-* [cite_start]**Infrastructure:** PostgreSQL, MySQL, Docker, DigitalOcean. [cite: 19, 21, 27, 28]
+* **Core Languages:** Swift, PHP, TypeScript, Python, Bash Shell.
+* **Frameworks:** Orbit (Creator), Laravel, NestJS, Next.js, Vapor.
+* **Infrastructure:** PostgreSQL, MySQL, Docker, DigitalOcean.
 
 ---
 
@@ -34,24 +34,24 @@ Highly versatile engineer with a 6-year track record at **Ali Alessa Architectur
 
 #### 🟢 [ORBIT_FRAMEWORK](https://github.com/orbit-framework/orbit)
 > **Status:** `ACTIVE_DEVELOPMENT`
-* [cite_start]**Mission:** Bringing Laravel-style Developer Experience (DX) to high-performance Swift. [cite: 9]
-* [cite_start]**Core:** Architected a native PostgreSQL driver to remove standard dependencies. [cite: 9]
+* **Mission:** Bringing Laravel-style Developer Experience (DX) to high-performance Swift.
+* **Core:** Architected a native PostgreSQL driver to remove standard dependencies.
 
 #### 🟢 [ARCHITECTURAL_BUSINESS_SYSTEMS](https://alessabro.com)
 > **Status:** `DEPLOYED`
-* [cite_start]**Performance:** **90% increase** in customer satisfaction via instant engineering quotations. [cite: 14]
-* [cite_start]**Finance:** **50% increase** in on-time payment collection through custom tracking systems. [cite: 15]
+* **Performance:** **90% increase** in customer satisfaction via instant engineering quotations.
+* **Finance:** **50% increase** in on-time payment collection through custom tracking systems.
 
 #### 🟢 [STRUCTURE_PLATFORM]
 > **Status:** `ARCHIVED`
-* [cite_start]**Feature:** Implemented a cost-tracking system for construction expenses and foundation services. [cite: 17]
+* **Feature:** Implemented a cost-tracking system for construction expenses and foundation services.
 
 ---
 
 ### 📜 CERTIFIED_MODULES
-* 🎓 **Tuwaiq Holberton Bootcamp** | [cite_start]406 Hours of Intensive Engineering. [cite: 32]
-* ☁️ **AWS Cloud Practitioner** | [cite_start]Saudi Digital Academy. [cite: 32]
-* 🏛️ **Bachelor in Information Technology** | [cite_start]Saudi Electronic University. [cite: 34, 36]
+* 🎓 **Tuwaiq Holberton Bootcamp** | 406 Hours of Intensive Engineering.
+* ☁️ **AWS Cloud Practitioner** | Saudi Digital Academy.
+* 🏛️ **Bachelor in Information Technology** | Saudi Electronic University.
 
 ---
 
@@ -63,12 +63,3 @@ Highly versatile engineer with a 6-year track record at **Ali Alessa Architectur
 > contact --whatsapp "+966539593592"
 > locate --github "haidarhalessa"
 ```
-
-<p align="left">
-<a href="mailto:haidarhalessa@gmail.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Gmail-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" />
-</a>
-<a href="https://www.google.com/search?q=https://wa.me/966539593592">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/WhatsApp-25D366%3Fstyle%3Dfor-the-badge%26logo%3Dwhatsapp%26logoColor%3Dwhite" />
-</a>
-</p>
