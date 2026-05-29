@@ -5,9 +5,9 @@
 </p>
 
 ## 🌌 SYSTEM_SPECS
-**Software Engineer** | **Framework Architect** | **Laravel Expert**
+**Software Developer** | **Framework Architect** | **Laravel Expert**
 
-Highly versatile engineer with a 6-year track record at **Ali Alessa Architectural Engineering Office**. I bridge the gap between the elegance of **Laravel** and the raw performance of **Swift backend technologies**.
+Highly versatile developer with a 6-year track record at **Ali Alessa Architectural Engineering Office**. I bridge the gap between the elegance of **Laravel** and the raw performance of **Swift backend technologies**.
 
 ---
 
@@ -20,11 +20,10 @@ Highly versatile engineer with a 6-year track record at **Ali Alessa Architectur
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" title="Docker"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45" title="Next.js"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" title="Figma"/>
 </p>
 
-* **Core Languages:** Swift, PHP, TypeScript, Python, Bash Shell.
+* **Core Languages:** Swift, PHP, TypeScript, Bash Shell.
 * **Frameworks:** Orbit (Creator), Laravel, NestJS, Next.js, Vapor.
 * **Infrastructure:** PostgreSQL, MySQL, Docker, DigitalOcean.
 
